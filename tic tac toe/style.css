@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav ul {
+  background-color: black;
+  color: white;
+  list-style-type: none;
+  height: 65px;
+  font-size: 27px;
+  display: flex;
+  align-items: center;
+}
+.gamecontainer {
+  display: flex;
+  margin: 0 auto;
+  background-color: yellow;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.container {
+}
